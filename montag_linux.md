@@ -48,3 +48,5 @@ Falls der Ordner fehlt, den Pfad in der odoo.cfg unter addons_path entfernen ode
 Fehler: gibt es keine
 --------------------------------------------
 
+mein Chef ist der Best
+
