@@ -52,3 +52,4 @@ Arbeitsverzeichnis (Working Directory): Die lokalen Dateien auf dem Rechner, in 
 Staging Area (Index): Der Vorbereitungsbereich. Hier landen Dateien nach `git add`, die für den nächsten Commit vorgemerkt sind.
 Lokales Repository: Die lokale Datenbank auf dem eigenen Computer. Nach `git commit` sind die Änderungen hier dauerhaft historisiert.
 Remote-Repository: Das zentrale Repository auf dem Server (z. B. GitHub/GitLab). Nach `git push` wird der Code dort für das Team bereitgestellt.
+------------------------------
